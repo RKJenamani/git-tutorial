@@ -24,7 +24,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 ### Entries
 
-	Hardik Aggarwal[hardik-kgp](http://githun.com/hardik-kgp)
+      Hardik Aggarwal[hardik-kgp](http://githun.com/hardik-kgp)
 ## Task 2
 
 After all of you send a Pull Request, I'll add my name to 'Entries'. 
