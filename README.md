@@ -24,6 +24,8 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 ### Entries
 
+Kushal Kedia [kushal2000](http://github.com/kushal2000)
+
 ## Task 2
 
 After all of you send a Pull Request, I'll add my name to 'Entries'. 
